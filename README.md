@@ -1,7 +1,6 @@
-#N11 Campaigns Name Url 
+#N11 All Store Name Export Excel File 
 
 ##Description of Project
-
 N11 All store export Excel file and The store that starts with the letter 'S' opens.It is seen how many comments there are about the selected store.
 This project used Cucumber, Selenium and JUnit and Take into consideration BDD
 
